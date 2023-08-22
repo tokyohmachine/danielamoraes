@@ -1,8 +1,13 @@
 
 # Daniela Moraes
 
-<p style="text-align: justify;">
- I'm a Software Engineering student actively seeking a hands-on internship. I'm enrolled in various courses, including UI/UX with Google, Frontend with Meta, FreeCodeCamp, and CodeAcademy. Currently, I'm immersed in the DIO Santander Fullstack Bootcamp. My passion for technology drives me to constantly explore and learn. I also enjoy reading, occasional gaming, and binge-watching series.
+
+
+
+
+
+
+<p align="justify">I'm a Software Engineering student actively seeking a hands-on internship. I'm enrolled in various courses, including UI/UX with Google, Frontend with Meta, FreeCodeCamp, and CodeAcademy. Currently, I'm immersed in the DIO Santander Fullstack Bootcamp. My passion for technology drives me to constantly explore and learn. I also enjoy reading, occasional gaming, and binge-watching series.
 </p>
 
 
