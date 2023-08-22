@@ -42,5 +42,3 @@ Hey there! I'm a passionate Software Engineering student eager to make my mark i
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tokyohmachine&show_icons=true&theme=synthwave"  />
 </div>
 
-
-![Snake animation](https://github.com/tokyohmachine/tokyohmachine/blob/output/github-contribution-grid-snake.svg)
