@@ -1,0 +1,43 @@
+name: Generate GitHub Snake
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: 'tokyohmachine'
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Add Snake to README
+        run: |
+          echo '<picture>' >> README.md
+          echo '  <source media="(prefers-color-scheme: dark)" srcset="URL_PARA_SVG_DARK" />' >> README.md
+          echo '  <source media="(prefers-color-scheme: light)" srcset="URL_PARA_SVG_LIGHT" />' >> README.md
+          echo '  <img alt="github-snake" src="URL_PARA_SVG_LIGHT" />' >> README.md
+          echo '</picture>' >> README.md
+        env:
+          URL_PARA_SVG_DARK: dist/github-contribution-grid-snake-dark.svg
+          URL_PARA_SVG_LIGHT: dist/github-contribution-grid-snake.svg
+
+      - name: Push changes to GitHub
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update GitHub Snake"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
