@@ -1,6 +1,8 @@
 
 # Daniela Moraes
 
+## About Me
+
 Hey there! I'm a passionate Software Engineering student eager to make my mark in the tech world.
 
 - 📚 Studying Software Engineering.
@@ -10,9 +12,8 @@ Hey there! I'm a passionate Software Engineering student eager to make my mark i
 - 🔌 Tech lover, always exploring and learning.
 - 📚 Bookworm, occasional gamer, series binge-watcher.
 
-## I am learning
+## Languages/ Tools I am learning
 
-#### Languages/ Tools
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50"/> &nbsp;
