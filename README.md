@@ -31,9 +31,10 @@
 
 ## GitHub Stats
 
-<div>
+ <div>
  <a href="https://github.com/tokyohmachine">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyohmachine&layout=compact&langs_count=7&theme=synthwave"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tokyohmachine&show_icons=true&theme=synthwave"  />
-</div>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyohmachine&layout=compact&langs_count=7&theme=blue-green"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tokyohmachine&show_icons=true&theme=blue-green"  />
+ </a>
+ </div>
 
