@@ -2,11 +2,6 @@
 # Daniela Moraes
 
 
-
-
-
-
-
 <p align="justify">I'm a Software Engineering student actively seeking a hands-on internship. I'm enrolled in various courses, including UI/UX with Google, Frontend with Meta, FreeCodeCamp, and CodeAcademy. Currently, I'm immersed in the DIO Santander Fullstack Bootcamp. My passion for technology drives me to constantly explore and learn. I also enjoy reading, occasional gaming, and binge-watching series.
 </p>
 
@@ -30,12 +25,9 @@
 ## Contact Me
 
 <div>
-
-
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:danielamedinna20@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/daniela-m-13b396204/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/garotadocaqui/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=4B1E97&colorB=280E54&color:FFF)](mailto:danielamedinna20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4B1E97&colorB=280E54&color:FFF)](https://www.linkedin.com/in/daniela-m-13b396204/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4B1E97&colorB=280E54&color:FFF)](https://www.instagram.com/garotadocaqui/)
 </div>
 
 ## GitHub Stats
