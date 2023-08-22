@@ -24,11 +24,10 @@
 
 ## Contact Me
 
-<div>
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=4B1E97&colorB=280E54&color:FFF)](mailto:danielamedinna20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4B1E97&colorB=280E54&color:FFF)](https://www.linkedin.com/in/daniela-m-13b396204/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4B1E97&colorB=280E54&color:FFF)](https://www.instagram.com/garotadocaqui/)
-</div>
+
 
 ## GitHub Stats
 
