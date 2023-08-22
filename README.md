@@ -12,7 +12,7 @@ Hey there! I'm a passionate Software Engineering student eager to make my mark i
 - 🔌 Tech lover, always exploring and learning.
 - 📚 Bookworm, occasional gamer, series binge-watcher.
 
-## Languages/ Tools I am learning
+## Tech Stack (I am learning)
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50"/> &nbsp;
